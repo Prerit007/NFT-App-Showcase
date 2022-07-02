@@ -43,7 +43,7 @@ const Wrapper = ({
           {showBtn && (
             <Button
               assetUrl={assets.expo}
-              link="https://expo.dev/@prerit_007/projects/React-NFT-App?serviceType=Classic&distribution=epxo-go"
+              link="https://expo.dev/@prerit_007/React-NFT-App"
             />
           )}
         </div>
