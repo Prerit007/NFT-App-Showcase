@@ -6,7 +6,7 @@ const App = () => {
   return (
     <>
       <Wrapper
-        title="Your Own Store of Nifty NFTs. Start Selling & Growing"
+        title="Your Store of Nifty NFTs. Start Selling & Growing"
         description="Buy, Sell, Collect NFTs & Earn Crypto"
         showBtn
         mockupImg={assets.homeHero}
